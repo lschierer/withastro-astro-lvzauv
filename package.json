@@ -1,0 +1,22 @@
+{
+  "name": "@example/blog",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/lit": "^2.1.1",
+    "@astrojs/mdx": "^0.19.7",
+    "@astrojs/rss": "^2.4.4",
+    "@astrojs/sitemap": "^2.0.2",
+    "@astrojs/ts-plugin": "^1.1.1",
+    "astro": "^2.10.9",
+    "lit": "^2.8.0"
+  }
+}
